@@ -1,0 +1,19 @@
+{
+    "model_info": {
+        "provider": "gpt",
+        "name": "llama2:7b"
+    },
+    "api_key_info": {
+        "api_keys": [
+            "ollama"
+        ],
+        "api_key_use": 0,
+        "base_url": "http://localhost:11434/v1"
+    },
+    "params": {
+        "temperature": 0.1,
+        "seed": 100,
+        "gpus": [],
+        "max_output_tokens": 150
+    }
+}
